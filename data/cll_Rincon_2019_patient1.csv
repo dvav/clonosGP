@@ -1,0 +1,547 @@
+SAMPLEID,TIME,SAMPLE_TYPE,COMMENT,SEQ,CHROM,POS,MUT,CSQ,GENE,MUTID,r,R
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,1,6527
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,12,9547
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,0,2218
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,17,4489
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,1,3100
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,2,2583
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,0,8480
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,0,746
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,2,7916
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,5,8073
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2,6846
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1514,3022
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,2,5212
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,104,295
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,0,2283
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,35,9846
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,7,3329
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,0,1500
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,40
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,3,4312
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,4,8688
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,3,992
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,6,10901
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,4,4140
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,3,12120
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,3,2689
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,3,2689
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,1724,4334
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,4,5450
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,3,5601
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,0,88
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1426,2939
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,0,1021
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,6,4831
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,2,4350
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,1,6254
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,4172,8579
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1331,3230
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,0,1749
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,72
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1946
+P1.1,0,PBMCs,First visit,Exome/Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,3,2680
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,0,4470
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,9,5926
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,7,1562
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,13,2949
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,2,2824
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,5,1761
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,0,7145
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,2,641
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,3,6142
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,12,5772
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,11,4033
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,4,1590
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,3,3277
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,0,189
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,4,1520
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,19,7753
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,2,1556
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,0,656
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,52
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,0,3283
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,5,6004
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,1,739
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,9,7606
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,1,2642
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,6,8643
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,2,1882
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,1,1882
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,3,2938
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,8,3678
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,8,3812
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,0,52
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,7,2789
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,2,635
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,3,3756
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,8,3164
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,5,3900
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,4,5726
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,9,2205
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,2,1358
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,55
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1224
+P1.2,441,PBMCs,Before transplant,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,3,1677
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,13,5534
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,51,7909
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,21,1850
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,198,3343
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,0,2588
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,2,1915
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,2,8096
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,31,848
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,194,6634
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,296,6509
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,200,5450
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,563,2484
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,0,4346
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,10,225
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,0,1933
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,389,8850
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,12,1894
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,36,929
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,15
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,1,3875
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,9,7849
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,36,788
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,4,8749
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,140,3588
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,481,13105
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,3,2125
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,2,2125
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,902,3968
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,0,4354
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,2,4880
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,0,45
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,660,2658
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,30,874
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,6,4896
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,3,3347
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,131,4713
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,1622,6382
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,507,2523
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,0,1753
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,67
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1345
+P1.3,1309,PBMCs,Before Treatment (Bendamustine),Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,0,3085
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,12,6878
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,368,10119
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,105,2639
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,1418,5195
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,3,3180
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,4,2857
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,0,11746
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,96,383
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,1948,7916
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,1870,7364
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2116,8418
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,563,2805
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,0,5295
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,155,356
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,1,2226
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,3634,13892
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,10,3078
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,330,1107
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,49
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,9,6050
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,464,13758
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,396,1758
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,17,11567
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,774,3316
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,3090,12607
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,0,2067
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,0,2067
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,2195,4713
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,4,5404
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,9,7679
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,1,83
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1858,3464
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,257,1021
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,1,5252
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,3,4730
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,867,5931
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,4225,8919
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1810,3753
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,0,2500
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,39
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,2018
+P1.4,1442,PBMCs,Before R-Lena After Benda,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,3,2582
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,0,6649
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,913,10335
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,224,2117
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,922,4379
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,0,3246
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,1,2285
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,3,11906
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,138,776
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,1875,9141
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,1566,8166
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,1324,7302
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1218,3157
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,2,4650
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,70,215
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,0,2477
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,2335,11271
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,11,2701
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,243,1388
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,48
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,2,4841
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,865,10294
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,212,1029
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,6,10721
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,655,3841
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,2701,13644
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,1,2519
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,1,2519
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,2195,4713
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,6,6098
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,4,6092
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,10,100
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1427,3741
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,229,1157
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,8,5176
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,2,4733
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,786,7097
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,3557,9131
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1210,3337
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,0,2287
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,40
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1247
+P1.5,1673,PBMCs,After R-Lena,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,0,3524
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,21,8094
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,2181,10842
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,663,2958
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,1721,6293
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,14,4081
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,2,3315
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,1,13461
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,232,834
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,3259,10942
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,3668,12527
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,1950,7187
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1716,3479
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,2,4454
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,125,341
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,1,2952
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,4862,15957
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,35,3732
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,388,1212
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,15
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,2,4686
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,2631,11560
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,441,1336
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,12,14478
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,1196,5682
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,4821,15809
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,1,2699
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,2,2699
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,2716,5745
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,1,8195
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,7,7599
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,9,89
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,2488,5115
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,475,1419
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,20,7271
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,4,5180
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,1791,6918
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,4439,8647
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1106,2368
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,3,3022
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,101
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1789
+P1.6,1806,PBMCs,Before  DHAOX,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,2,3839
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,36,6940
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,876,13943
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,128,2269
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,518,5186
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,14,5141
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,26,2488
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,2,13037
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,95,833
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,1030,12444
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,1074,10567
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,427,5157
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,302,2677
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,22,6606
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,74,290
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,8,3184
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,1441,16813
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,24,3408
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,97,1264
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,22
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,19,3349
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,900,11350
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,78,947
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,10,12565
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,143,3012
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,1192,14128
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,0,1555
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,3,1555
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,678,6928
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,13,8221
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,46,7694
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,3,95
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,479,4609
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,123,1773
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,7,7216
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,5,5420
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,688,8651
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,1153,10549
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,327,3378
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,13,2980
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,13,25
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,2,2213
+P1.7,1934,PBMCs,After DHAOX,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,59,3481
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,3,6179
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,17,9215
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,2,1780
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,21,3966
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,0,3219
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,9,2556
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,7,10513
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,4,741
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,4,7864
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,16,7172
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,8,5968
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,0,2676
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,3,3773
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,1,317
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,1,2461
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,33,10888
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,5,2364
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,0,1134
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,22
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,2,4732
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,16,9787
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,8,1067
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,3,10244
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,7,3874
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,18,13385
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,0,2075
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,2,2075
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,18,4376
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,5,5802
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,7,5329
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,0,64
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,16,3563
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,1,1112
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,2,4579
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,3,3865
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,2,5297
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,24,8301
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,12,2920
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,0,2028
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,0,40
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,0,1640
+P1.8,1974,PBMCs,Before transplant,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,1,2953
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,246,2847
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,903,4121
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,300,1245
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,454,1908
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,110,1136
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,238,1587
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,585,5704
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,92,411
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,960,4072
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,995,4298
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,715,3037
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,334,1282
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,208,2013
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,27,145
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,96,1277
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,1014,4531
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,125,1435
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,156,702
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,4,27
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,214,2552
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,1107,4807
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,172,570
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,437,4840
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,342,1861
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,1447,6211
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,96,1218
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,96,1218
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,400,1770
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,245,2668
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,324,3256
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,12,38
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,563,2171
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,122,516
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,222,2907
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,151,1995
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,467,2440
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,839,3408
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,372,1477
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,127,1341
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,2,42
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,57,859
+P1.9,2140,PBMCs,After Trasplant,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,265,2036
+P1.10,2205,PBMCs,,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,2025,5913
+P1.10,2205,PBMCs,,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,3573,8497
+P1.10,2205,PBMCs,,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,682,1729
+P1.10,2205,PBMCs,,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,1755,4041
+P1.10,2205,PBMCs,,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,1052,3016
+P1.10,2205,PBMCs,,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,1257,3154
+P1.10,2205,PBMCs,,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,3341,9996
+P1.10,2205,PBMCs,,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,320,738
+P1.10,2205,PBMCs,,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,3150,7568
+P1.10,2205,PBMCs,,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,3382,7708
+P1.10,2205,PBMCs,,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2124,5339
+P1.10,2205,PBMCs,,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1028,2268
+P1.10,2205,PBMCs,,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,1140,2184
+P1.10,2205,PBMCs,,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,116,276
+P1.10,2205,PBMCs,,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,770,2345
+P1.10,2205,PBMCs,,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,3850,9265
+P1.10,2205,PBMCs,,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,800,2219
+P1.10,2205,PBMCs,,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,268,663
+P1.10,2205,PBMCs,,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,0,29
+P1.10,2205,PBMCs,,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,1454,4769
+P1.10,2205,PBMCs,,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,4294,10390
+P1.10,2205,PBMCs,,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,394,973
+P1.10,2205,PBMCs,,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,2975,8710
+P1.10,2205,PBMCs,,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,2138,3447
+P1.10,2205,PBMCs,,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,4422,10314
+P1.10,2205,PBMCs,,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,577,2097
+P1.10,2205,PBMCs,,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,576,2097
+P1.10,2205,PBMCs,,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,1367,3295
+P1.10,2205,PBMCs,,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,1654,4607
+P1.10,2205,PBMCs,,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,1867,5468
+P1.10,2205,PBMCs,,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,35,66
+P1.10,2205,PBMCs,,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1431,3229
+P1.10,2205,PBMCs,,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,409,887
+P1.10,2205,PBMCs,,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,1665,5856
+P1.10,2205,PBMCs,,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,961,3552
+P1.10,2205,PBMCs,,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,1934,4636
+P1.10,2205,PBMCs,,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,2460,6178
+P1.10,2205,PBMCs,,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,959,2149
+P1.10,2205,PBMCs,,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,825,2134
+P1.10,2205,PBMCs,,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,21,52
+P1.10,2205,PBMCs,,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,404,1031
+P1.10,2205,PBMCs,,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,745,1963
+P1.11,2247,PBMCs,,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,2024,6395
+P1.11,2247,PBMCs,,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,3426,9692
+P1.11,2247,PBMCs,,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,901,2444
+P1.11,2247,PBMCs,,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,1759,4284
+P1.11,2247,PBMCs,,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,787,2888
+P1.11,2247,PBMCs,,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,1101,2911
+P1.11,2247,PBMCs,,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,2855,9569
+P1.11,2247,PBMCs,,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,297,695
+P1.11,2247,PBMCs,,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,3547,8545
+P1.11,2247,PBMCs,,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,3330,8486
+P1.11,2247,PBMCs,,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2158,5763
+P1.11,2247,PBMCs,,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,832,2092
+P1.11,2247,PBMCs,,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,1251,3256
+P1.11,2247,PBMCs,,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,152,460
+P1.11,2247,PBMCs,,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,861,2631
+P1.11,2247,PBMCs,,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,3931,10613
+P1.11,2247,PBMCs,,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,711,2448
+P1.11,2247,PBMCs,,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,510,1180
+P1.11,2247,PBMCs,,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,7,55
+P1.11,2247,PBMCs,,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,1378,4797
+P1.11,2247,PBMCs,,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,3470,9574
+P1.11,2247,PBMCs,,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,392,1088
+P1.11,2247,PBMCs,,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,3660,11780
+P1.11,2247,PBMCs,,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,2817,4213
+P1.11,2247,PBMCs,,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,4755,12181
+P1.11,2247,PBMCs,,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,654,2574
+P1.11,2247,PBMCs,,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,652,2574
+P1.11,2247,PBMCs,,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,1588,4375
+P1.11,2247,PBMCs,,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,1616,5658
+P1.11,2247,PBMCs,,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,1774,6049
+P1.11,2247,PBMCs,,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,32,86
+P1.11,2247,PBMCs,,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1849,4468
+P1.11,2247,PBMCs,,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,556,1231
+P1.11,2247,PBMCs,,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,1438,5887
+P1.11,2247,PBMCs,,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,1132,4988
+P1.11,2247,PBMCs,,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,2342,6252
+P1.11,2247,PBMCs,,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,2955,7823
+P1.11,2247,PBMCs,,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1474,3814
+P1.11,2247,PBMCs,,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,750,2497
+P1.11,2247,PBMCs,,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,42,88
+P1.11,2247,PBMCs,,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,542,1427
+P1.11,2247,PBMCs,,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,1700,3370
+P1.12,2275,PBMCs,,Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,2393,7675
+P1.12,2275,PBMCs,,Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,4117,10771
+P1.12,2275,PBMCs,,Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,844,2466
+P1.12,2275,PBMCs,,Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,1831,5012
+P1.12,2275,PBMCs,,Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,1151,3554
+P1.12,2275,PBMCs,,Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,1737,4069
+P1.12,2275,PBMCs,,Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,3949,12505
+P1.12,2275,PBMCs,,Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,371,898
+P1.12,2275,PBMCs,,Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,4070,11151
+P1.12,2275,PBMCs,,Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,3748,10242
+P1.12,2275,PBMCs,,Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2514,7121
+P1.12,2275,PBMCs,,Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1072,3085
+P1.12,2275,PBMCs,,Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,1740,4174
+P1.12,2275,PBMCs,,Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,128,381
+P1.12,2275,PBMCs,,Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,853,2853
+P1.12,2275,PBMCs,,Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,4396,11981
+P1.12,2275,PBMCs,,Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,980,3025
+P1.12,2275,PBMCs,,Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,630,1740
+P1.12,2275,PBMCs,,Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,13,60
+P1.12,2275,PBMCs,,Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,1268,4481
+P1.12,2275,PBMCs,,Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,3775,9988
+P1.12,2275,PBMCs,,Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,370,1192
+P1.12,2275,PBMCs,,Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,4446,13759
+P1.12,2275,PBMCs,,Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,2593,3929
+P1.12,2275,PBMCs,,Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,4701,13788
+P1.12,2275,PBMCs,,Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,758,2565
+P1.12,2275,PBMCs,,Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,761,2565
+P1.12,2275,PBMCs,,Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,1891,5455
+P1.12,2275,PBMCs,,Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,2305,7368
+P1.12,2275,PBMCs,,Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,2341,7037
+P1.12,2275,PBMCs,,Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,47,122
+P1.12,2275,PBMCs,,Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1446,4145
+P1.12,2275,PBMCs,,Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,563,1450
+P1.12,2275,PBMCs,,Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,1530,6476
+P1.12,2275,PBMCs,,Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,1324,5140
+P1.12,2275,PBMCs,,Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,2750,7701
+P1.12,2275,PBMCs,,Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,3416,9236
+P1.12,2275,PBMCs,,Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,1000,2572
+P1.12,2275,PBMCs,,Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,939,3025
+P1.12,2275,PBMCs,,Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,19,73
+P1.12,2275,PBMCs,,Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,603,1454
+P1.12,2275,PBMCs,,Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,1478,2601
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,38411941,C>C/T,missense_variant,INPP5B,chr1:38411941:C>C/T,3114,7681
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,67263708,A>A/T,missense_variant,INSL5,chr1:67263708:A>A/T,4439,10138
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,153651670,G>G/T,missense_variant,NPR1,chr1:153651670:G>G/T,1019,2483
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,177901681,C>C/T,missense_variant,SEC16B,chr1:177901681:C>C/T,2698,5780
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,201178208,T>T/A,stop_gained,IGFN1,chr1:201178208:T>T/A,1433,3686
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,226829677,C>C/A,missense_variant,ITPKB,chr1:226829677:C>C/A,2113,4145
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr1,236755310,T>T/G,missense_variant,HEATR1,chr1:236755310:T>T/G,4076,9339
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr10,23729152,G>G/A,missense_variant,OTUD1,chr10:23729152:G>G/A,396,675
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr10,95445044,T>T/A,missense_variant,FRA10AC1,chr10:95445044:T>T/A,2579,6114
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr11,18610197,T>T/A,missense_variant,UEVLD,chr11:18610197:T>T/A,4922,10635
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr11,66359334,C>C/A,missense_variant,CCDC87,chr11:66359334:C>C/A,2489,6306
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr12,56995015,G>G/A,stop_gained,BAZ2A,chr12:56995015:G>G/A,1567,2848
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr13,75915702,T>T/A,missense_variant,TBC1D4,chr13:75915702:T>T/A,2554,3691
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr15,29418511,C>C/T,missense_variant,FAM189A1,chr15:29418511:C>C/T,25,234
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr15,44876753,T>T/A,missense_variant,SPG11,chr15:44876753:T>T/A,1052,2501
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr16,77401347,G>G/A,missense_variant,ADAMTS18,chr16:77401347:G>G/A,5369,12542
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr17,39521790,G>G/A,missense_variant,KRT33B,chr17:39521790:G>G/A,1073,2915
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr18,25532281,C>C/T,missense_variant,CDH2,chr18:25532281:C>C/T,545,1433
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr19,1105748,A>A/C,missense_variant,GPX4,chr19:1105748:A>A/C,40,78
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr19,7914208,C>C/T,missense_variant,EVI5L,chr19:7914208:C>C/T,1438,4497
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr19,9524019,C>C/A,missense_variant,ZNF266,chr19:9524019:C>C/A,4113,10242
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr19,13418606,G>G/A,missense_variant,CACNA1A,chr19:13418606:G>G/A,582,1207
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr2,174224111,A>A/C,missense_variant,CDCA7,chr2:174224111:A>A/C,7416,13455
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr2,239039985,T>T/C,missense_variant,ESPNL,chr2:239039985:T>T/C,2117,6448
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr20,31023159,C>C/T,stop_gained,ASXL1,chr20:31023159:C>C/T,5762,13514
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr22,50686442,C>C/A,missense_variant,HDAC10,chr22:50686442:C>C/A,1143,3010
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr22,50686451,G>G/A,missense_variant,HDAC10,chr22:50686451:G>G/A,1148,3010
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr3,45745001,G>G/A,missense_variant,SACM1L,chr3:45745001:G>G/A,1376,3351
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr3,107491824,T>T/C,missense_variant,BBX,chr3:107491824:T>T/C,2446,5528
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr4,76928597,C>C/A,missense_variant,CXCL9,chr4:76928597:C>C/A,2581,6948
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr4,89618794,C>C/T,missense_variant,HERC3,chr4:89618794:C>C/T,32,64
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr4,90169415,C>C/T,missense_variant,GPRIN3,chr4:90169415:C>C/T,1559,3465
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr4,113508555,C>C/A,missense_variant,ZGRF1,chr4:113508555:C>C/A,498,1150
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr4,140640637,C>C/T,missense_variant,MAML3,chr4:140640637:C>C/T,2384,5969
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr5,140580402,T>T/C,missense_variant,PCDHB11,chr5:140580402:T>T/C,1397,4752
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr5,161118996,C>C/A,missense_variant,GABRA6,chr5:161118996:C>C/A,2765,5761
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr5,176637235,G>G/A,missense_variant,NSD1,chr5:176637235:G>G/A,4197,9250
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr6,132891923,G>G/A,missense_variant,TAAR6,chr6:132891923:G>G/A,2454,4855
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr6,152553300,T>T/G,missense_variant,SYNE1,chr6:152553300:T>T/G,291,629
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr7,6414400,G>G/C,missense_variant,RAC1,chr7:6414400:G>G/C,19,42
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chr8,194634,T>T/C,missense_variant,ZNF596,chr8:194634:T>T/C,572,874
+P1.13,2383,PBMCs,,Exome/Target Sequencing,chrX,47072540,T>T/C,missense_variant,UBA1,chrX:47072540:T>T/C,3330,4124

@@ -1,0 +1,125 @@
+SAMPLEID,TIME,SAMPLE_TYPE,COMMENT,CHROM,POS,MUT,CSQ,GENE,MUTID,r,R
+P2.1,0,PBMCs,Diagnosis,chr1,203138198,T>T/C,missense_variant,MYBPH,chr1:203138198:T>T/C,3308,9710
+P2.1,0,PBMCs,Diagnosis,chr10,64573167,C>C/G,missense_variant,EGR2,chr10:64573167:C>C/G,2,2488
+P2.1,0,PBMCs,Diagnosis,chr11,17409031,C>C/T,missense_variant,KCNJ11,chr11:17409031:C>C/T,0,735
+P2.1,0,PBMCs,Diagnosis,chr11,77378457,G>G/T,missense_variant,RSF1,chr11:77378457:G>G/T,0,8400
+P2.1,0,PBMCs,Diagnosis,chr12,44148590,C>C/G,missense_variant,PUS7L,chr12:44148590:C>C/G,0,7239
+P2.1,0,PBMCs,Diagnosis,chr12,68720768,C>C/A,missense_variant,MDM1,chr12:68720768:C>C/A,3,12293
+P2.1,0,PBMCs,Diagnosis,chr12,76740057,T>T/G,missense_variant,BBS10,chr12:76740057:T>T/G,0,1930
+P2.1,0,PBMCs,Diagnosis,chr12,95694328,G>G/T,missense_variant,VEZT,chr12:95694328:G>G/T,13,11963
+P2.1,0,PBMCs,Diagnosis,chr15,48056239,G>G/A,missense_variant,SEMA6D,chr15:48056239:G>G/A,449,1518
+P2.1,0,PBMCs,Diagnosis,chr17,7217667,A>A/G,missense_variant,GPS2,chr17:7217667:A>A/G,8,19237
+P2.1,0,PBMCs,Diagnosis,chr17,7578406,C>C/T,missense_variant,TP53,chr17:7578406:C>C/T,0,114
+P2.1,0,PBMCs,Diagnosis,chr19,1440456,A>A/T,stop_gained,RPS15,chr19:1440456:A>A/T,5,6658
+P2.1,0,PBMCs,Diagnosis,chr19,12253308,T>T/C,missense_variant,ZNF625,chr19:12253308:T>T/C,0,271
+P2.1,0,PBMCs,Diagnosis,chr19,36004170,C>C/T,missense_variant,DMKN,chr19:36004170:C>C/T,0,979
+P2.1,0,PBMCs,Diagnosis,chr19,55451611,C>C/T,missense_variant,NLRP7,chr19:55451611:C>C/T,750,2978
+P2.1,0,PBMCs,Diagnosis,chr2,61719471,T>T/A,missense_variant,XPO1,chr2:61719471:T>T/A,2749,8076
+P2.1,0,PBMCs,Diagnosis,chr2,73339809,C>C/T,missense_variant,RAB11FIP5,chr2:73339809:C>C/T,3366,9823
+P2.1,0,PBMCs,Diagnosis,chr2,112994207,G>G/A,stop_gained,ZC3H8,chr2:112994207:G>G/A,13,5749
+P2.1,0,PBMCs,Diagnosis,chr20,31024371,C>C/T,stop_gained,ASXL1,chr20:31024371:C>C/T,21,10556
+P2.1,0,PBMCs,Diagnosis,chr20,43726429,G>G/T,missense_variant,KCNS1,chr20:43726429:G>G/T,1,1364
+P2.1,0,PBMCs,Diagnosis,chr3,42672799,A>A/G,missense_variant,NKTR,chr3:42672799:A>A/G,820,3422
+P2.1,0,PBMCs,Diagnosis,chr3,62180812,G>G/A,missense_variant,PTPRG,chr3:62180812:G>G/A,2491,10571
+P2.1,0,PBMCs,Diagnosis,chr3,67054494,A>A/G,missense_variant,KBTBD8,chr3:67054494:A>A/G,4,5995
+P2.1,0,PBMCs,Diagnosis,chr3,146167102,G>G/A,missense_variant,PLSCR2,chr3:146167102:G>G/A,3,401
+P2.1,0,PBMCs,Diagnosis,chr5,53814210,G>G/T,missense_variant,SNX18,chr5:53814210:G>G/T,845,1477
+P2.1,0,PBMCs,Diagnosis,chr5,122495320,C>C/T,stop_gained,PRDM6,chr5:122495320:C>C/T,484,8152
+P2.1,0,PBMCs,Diagnosis,chr5,174156539,G>G/A,missense_variant,MSX2,chr5:174156539:G>G/A,7,8064
+P2.1,0,PBMCs,Diagnosis,chr9,73255540,G>G/T,missense_variant,TRPM3,chr9:73255540:G>G/T,3465,7410
+P2.1,0,PBMCs,Diagnosis,chrX,41205870,A>A/T,missense_variant,DDX3X,chrX:41205870:A>A/T,20,4085
+P2.1,0,PBMCs,Diagnosis,chrX,70338701,G>G/A,missense_variant,MED12,chrX:70338701:G>G/A,24,57
+P2.1,0,PBMCs,Diagnosis,chrX,111698846,G>G/A,missense_variant,ZCCHC16,chrX:111698846:G>G/A,2,3304
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr1,203138198,T>T/C,missense_variant,MYBPH,chr1:203138198:T>T/C,2435,8202
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr10,64573167,C>C/G,missense_variant,EGR2,chr10:64573167:C>C/G,10,2382
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr11,17409031,C>C/T,missense_variant,KCNJ11,chr11:17409031:C>C/T,0,716
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr11,77378457,G>G/T,missense_variant,RSF1,chr11:77378457:G>G/T,2,9539
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr12,44148590,C>C/G,missense_variant,PUS7L,chr12:44148590:C>C/G,0,7741
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr12,68720768,C>C/A,missense_variant,MDM1,chr12:68720768:C>C/A,2,9590
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr12,76740057,T>T/G,missense_variant,BBS10,chr12:76740057:T>T/G,0,1772
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr12,95694328,G>G/T,missense_variant,VEZT,chr12:95694328:G>G/T,4,13372
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr15,48056239,G>G/A,missense_variant,SEMA6D,chr15:48056239:G>G/A,382,1691
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr17,7217667,A>A/G,missense_variant,GPS2,chr17:7217667:A>A/G,4,14195
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr17,7578406,C>C/T,missense_variant,TP53,chr17:7578406:C>C/T,0,100
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr19,1440456,A>A/T,stop_gained,RPS15,chr19:1440456:A>A/T,8,5278
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr19,12253308,T>T/C,missense_variant,ZNF625,chr19:12253308:T>T/C,1,294
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr19,36004170,C>C/T,missense_variant,DMKN,chr19:36004170:C>C/T,4,804
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr19,55451611,C>C/T,missense_variant,NLRP7,chr19:55451611:C>C/T,582,2963
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr2,61719471,T>T/A,missense_variant,XPO1,chr2:61719471:T>T/A,1993,8217
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr2,73339809,C>C/T,missense_variant,RAB11FIP5,chr2:73339809:C>C/T,1898,7041
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr2,112994207,G>G/A,stop_gained,ZC3H8,chr2:112994207:G>G/A,7,6039
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr20,31024371,C>C/T,stop_gained,ASXL1,chr20:31024371:C>C/T,22,9010
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr20,43726429,G>G/T,missense_variant,KCNS1,chr20:43726429:G>G/T,1,1806
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr3,42672799,A>A/G,missense_variant,NKTR,chr3:42672799:A>A/G,1057,4017
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr3,62180812,G>G/A,missense_variant,PTPRG,chr3:62180812:G>G/A,2818,11323
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr3,67054494,A>A/G,missense_variant,KBTBD8,chr3:67054494:A>A/G,2,4807
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr3,146167102,G>G/A,missense_variant,PLSCR2,chr3:146167102:G>G/A,2,519
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr5,53814210,G>G/T,missense_variant,SNX18,chr5:53814210:G>G/T,1166,2043
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr5,122495320,C>C/T,stop_gained,PRDM6,chr5:122495320:C>C/T,1074,6667
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr5,174156539,G>G/A,missense_variant,MSX2,chr5:174156539:G>G/A,1,5707
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chr9,73255540,G>G/T,missense_variant,TRPM3,chr9:73255540:G>G/T,5641,11881
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chrX,41205870,A>A/T,missense_variant,DDX3X,chrX:41205870:A>A/T,15,3606
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chrX,70338701,G>G/A,missense_variant,MED12,chrX:70338701:G>G/A,24,67
+P2.2,408,PBMCs,Pre-treatment FCR-Rm,chrX,111698846,G>G/A,missense_variant,ZCCHC16,chrX:111698846:G>G/A,5,3845
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr1,203138198,T>T/C,missense_variant,MYBPH,chr1:203138198:T>T/C,3140,7017
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr10,64573167,C>C/G,missense_variant,EGR2,chr10:64573167:C>C/G,774,2118
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr11,17409031,C>C/T,missense_variant,KCNJ11,chr11:17409031:C>C/T,117,467
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr11,77378457,G>G/T,missense_variant,RSF1,chr11:77378457:G>G/T,8,8238
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr12,44148590,C>C/G,missense_variant,PUS7L,chr12:44148590:C>C/G,10,6890
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr12,68720768,C>C/A,missense_variant,MDM1,chr12:68720768:C>C/A,1600,10750
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr12,76740057,T>T/G,missense_variant,BBS10,chr12:76740057:T>T/G,0,1672
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr12,95694328,G>G/T,missense_variant,VEZT,chr12:95694328:G>G/T,4208,11912
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr15,48056239,G>G/A,missense_variant,SEMA6D,chr15:48056239:G>G/A,621,1488
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr17,7217667,A>A/G,missense_variant,GPS2,chr17:7217667:A>A/G,1,8151
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr17,7578406,C>C/T,missense_variant,TP53,chr17:7578406:C>C/T,34,60
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr19,1440456,A>A/T,stop_gained,RPS15,chr19:1440456:A>A/T,1994,5488
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr19,12253308,T>T/C,missense_variant,ZNF625,chr19:12253308:T>T/C,55,153
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr19,36004170,C>C/T,missense_variant,DMKN,chr19:36004170:C>C/T,295,819
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr19,55451611,C>C/T,missense_variant,NLRP7,chr19:55451611:C>C/T,225,3432
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr2,61719471,T>T/A,missense_variant,XPO1,chr2:61719471:T>T/A,4035,8770
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr2,73339809,C>C/T,missense_variant,RAB11FIP5,chr2:73339809:C>C/T,3100,7654
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr2,112994207,G>G/A,stop_gained,ZC3H8,chr2:112994207:G>G/A,11,5772
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr20,31024371,C>C/T,stop_gained,ASXL1,chr20:31024371:C>C/T,2831,8394
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr20,43726429,G>G/T,missense_variant,KCNS1,chr20:43726429:G>G/T,683,1624
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr3,42672799,A>A/G,missense_variant,NKTR,chr3:42672799:A>A/G,96,3889
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr3,62180812,G>G/A,missense_variant,PTPRG,chr3:62180812:G>G/A,536,9267
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr3,67054494,A>A/G,missense_variant,KBTBD8,chr3:67054494:A>A/G,1072,3733
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr3,146167102,G>G/A,missense_variant,PLSCR2,chr3:146167102:G>G/A,146,403
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr5,53814210,G>G/T,missense_variant,SNX18,chr5:53814210:G>G/T,760,1488
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr5,122495320,C>C/T,stop_gained,PRDM6,chr5:122495320:C>C/T,2,7147
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr5,174156539,G>G/A,missense_variant,MSX2,chr5:174156539:G>G/A,1984,5782
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chr9,73255540,G>G/T,missense_variant,TRPM3,chr9:73255540:G>G/T,3485,5071
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chrX,41205870,A>A/T,missense_variant,DDX3X,chrX:41205870:A>A/T,195,3763
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chrX,70338701,G>G/A,missense_variant,MED12,chrX:70338701:G>G/A,6,66
+P2.4,2073,PBMCs,Pre-treat. TRU-Benda,chrX,111698846,G>G/A,missense_variant,ZCCHC16,chrX:111698846:G>G/A,2625,3486
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr1,203138198,T>T/C,missense_variant,MYBPH,chr1:203138198:T>T/C,3328,7387
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr10,64573167,C>C/G,missense_variant,EGR2,chr10:64573167:C>C/G,1112,2273
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr11,17409031,C>C/T,missense_variant,KCNJ11,chr11:17409031:C>C/T,264,552
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr11,77378457,G>G/T,missense_variant,RSF1,chr11:77378457:G>G/T,1736,7747
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr12,44148590,C>C/G,missense_variant,PUS7L,chr12:44148590:C>C/G,1549,8777
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr12,68720768,C>C/A,missense_variant,MDM1,chr12:68720768:C>C/A,4285,10872
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr12,76740057,T>T/G,missense_variant,BBS10,chr12:76740057:T>T/G,551,1672
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr12,95694328,G>G/T,missense_variant,VEZT,chr12:95694328:G>G/T,4341,10226
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr15,48056239,G>G/A,missense_variant,SEMA6D,chr15:48056239:G>G/A,694,1583
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr17,7217667,A>A/G,missense_variant,GPS2,chr17:7217667:A>A/G,1788,7625
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr17,7578406,C>C/T,missense_variant,TP53,chr17:7578406:C>C/T,55,67
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr19,1440456,A>A/T,stop_gained,RPS15,chr19:1440456:A>A/T,1755,4509
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr19,12253308,T>T/C,missense_variant,ZNF625,chr19:12253308:T>T/C,116,226
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr19,36004170,C>C/T,missense_variant,DMKN,chr19:36004170:C>C/T,464,812
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr19,55451611,C>C/T,missense_variant,NLRP7,chr19:55451611:C>C/T,2,3182
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr2,61719471,T>T/A,missense_variant,XPO1,chr2:61719471:T>T/A,4279,8987
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr2,73339809,C>C/T,missense_variant,RAB11FIP5,chr2:73339809:C>C/T,2882,7266
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr2,112994207,G>G/A,stop_gained,ZC3H8,chr2:112994207:G>G/A,1228,7939
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr20,31024371,C>C/T,stop_gained,ASXL1,chr20:31024371:C>C/T,3830,9181
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr20,43726429,G>G/T,missense_variant,KCNS1,chr20:43726429:G>G/T,829,1676
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr3,42672799,A>A/G,missense_variant,NKTR,chr3:42672799:A>A/G,0,4441
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr3,62180812,G>G/A,missense_variant,PTPRG,chr3:62180812:G>G/A,16,9251
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr3,67054494,A>A/G,missense_variant,KBTBD8,chr3:67054494:A>A/G,1789,2672
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr3,146167102,G>G/A,missense_variant,PLSCR2,chr3:146167102:G>G/A,252,589
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr5,53814210,G>G/T,missense_variant,SNX18,chr5:53814210:G>G/T,987,1812
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr5,122495320,C>C/T,stop_gained,PRDM6,chr5:122495320:C>C/T,2,7763
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr5,174156539,G>G/A,missense_variant,MSX2,chr5:174156539:G>G/A,3026,5972
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chr9,73255540,G>G/T,missense_variant,TRPM3,chr9:73255540:G>G/T,4076,4806
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chrX,41205870,A>A/T,missense_variant,DDX3X,chrX:41205870:A>A/T,2947,3570
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chrX,70338701,G>G/A,missense_variant,MED12,chrX:70338701:G>G/A,0,127
+P2.5,2347,LN,Pre-treat.R-CMP-bortezomib,chrX,111698846,G>G/A,missense_variant,ZCCHC16,chrX:111698846:G>G/A,3187,3501
