@@ -9,7 +9,7 @@ setuptools.setup(
     description='Clonal deconvolution in cancer using longitudinal NGS data',
     long_description=long_description,
     long_description_content_type="text/markdown",      
-    url='http://github.com/dvav/?????',
+    url='http://github.com/dvav/clonosGP',
     author='Dimitrios V. Vavoulis',
     author_email='dimitris.vavoulis@gmail.com',
     license='MIT',

@@ -17,4 +17,4 @@ A guide to start using `clonosGP` quickly is available [here](quickstart.ipynb).
 
 # Citation
 
-*citation to be added*
+For citation information check [http://github.com/dvav/clonosGP](http://github.com/dvav/clonosGP)
