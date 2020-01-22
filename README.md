@@ -13,7 +13,7 @@ All necessary dependencies will also be installed.
 
 # Usage
 
-A guide to start using `clonosGP` quickly is available [here](quickstart.ipynb). A more thorough tutorial can be found [here](tutorial.ipynb).
+A guide to start using `clonosGP` quickly is available [here](https://github.com/dvav/clonosGP/blob/master/quickstart.ipynb). A more thorough tutorial can be found [here](https://github.com/dvav/clonosGP/blob/master/quickstart.ipynb).
 
 # Citation
 
