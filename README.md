@@ -17,4 +17,6 @@ A guide to start using `clonosGP` quickly is available [here](quickstart.ipynb).
 
 # Citation
 
-For citation information check [http://github.com/dvav/clonosGP](http://github.com/dvav/clonosGP)
+If you find this software or the statistical model behind it useful, then please cite the following paper:
+
+> "*A statistical approach for tracking clonal dynamics in cancer using longitudinal next-generation sequencing data*" by Vavoulis DV, Cutts A, Taylor JC & Schuh A doi:[https://doi.org/10.1101/2020.01.20.913236](https://doi.org/10.1101/2020.01.20.913236)
