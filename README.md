@@ -19,4 +19,4 @@ A guide to start using `clonosGP` quickly is available [here](https://github.com
 
 If you find this software or the statistical model behind it useful, then please cite the following paper:
 
-> "**A statistical approach for tracking clonal dynamics in cancer using longitudinal next-generation sequencing data**" by Vavoulis DV, Cutts A, Taylor JC & Schuh A. *Bioinformatics*, 2020
+> "**A statistical approach for tracking clonal dynamics in cancer using longitudinal next-generation sequencing data**" by Vavoulis DV, Cutts A, Taylor JC & Schuh A. *Bioinformatics*, 2020 [link](https://doi.org/10.1093/bioinformatics/btaa672)
